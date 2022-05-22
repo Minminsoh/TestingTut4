@@ -8,3 +8,5 @@ This repository is an example about how to integrate GitHub with Rstudio Cloudâ€
 I am creating conflict  2.... 
 
 I am trying rebase hereee
+
+I am trying rebase again 
