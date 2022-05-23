@@ -6,4 +6,6 @@ This repository is an example about how to integrate GitHub with Rstudio Cloudâ€
 
 This is an example of Rebase... 
 
-amend commits 
+amend commits
+
+I'm practicising previous commit 
