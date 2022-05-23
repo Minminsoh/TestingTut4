@@ -12,3 +12,5 @@ I'm practicising previous commit
 
 practice git commit -- amend again 
 git reset --mixed practice
+
+git fetch origin practice 
