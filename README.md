@@ -11,3 +11,4 @@ amend commits
 I'm practicising previous commit 
 
 practice git commit -- amend again 
+git reset --mixed practice
